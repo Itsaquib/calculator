@@ -1,0 +1,10 @@
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aquib\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
